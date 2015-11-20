@@ -11,13 +11,13 @@ url: "https://udnisap.github.io"
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-35880426-4"
+#google-tracking-id: "UA-35880426-4"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-#force-https: True
+force-https: True
 
 syntax-highlight: True
 
@@ -71,28 +71,28 @@ type-speed:	10		# Default 10
 start-delay: 200	# Default 200
 delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
-  - text: "Music"
   - text: "Mathematics"
-  - text: "React React-native"
-  - text: "Grunt Gulp Bower npm ES6 ES7 Babel"
-  - text: "Angular Ember Elm Sencha ExtJS"
-  - text: "NodeJS Express Sails Meteor"
-  - text: "MongoDB CouchDB Mysql Elastic Search"
-  - text: "Selenium Webdriver Zombie PhantomJS JSDom Cheerio"
-  - text: "Git SVN"
-  - text: "Java Spring Guice"
-  - text: "Python Ruby on Rails"
-  - text: "Bash sed grep fifo zsh tmux vim xorg openbox"
-  - text: "Jenkins Sonar ESLint Travis"
-  - text: "Jest Mocha Chi Jasmine Cucumber"
-  - text: "Metasploit John the Reaper XSS"
-  - text: "Firebase Parse"
-  - text: "Heroku Openshift CloudControl AWS"
-  - text: "Docker Puppet Apache Tomcat"
-  - text: "Yii Zend Symphony Codeigniter CakePHP"
-  - text: "ElectronJS Cordova"
-  - text: "Piano Guitar Music"
-  - text: "Badminton Chess"
+  - text: "React, React-native"
+  - text: "Grunt, Gulp, Bower, npm, ES6, ES7, Babel"
+  - text: "Angular, Ember, Elm, Sencha, ExtJS, Web Assembly, Rx"
+  - text: "NodeJS, Express, Sails, Meteor"
+  - text: "MongoDB, CouchDB, Mysql, Elastic Search"
+  - text: "Selenium, Webdriver.io, Zombie, PhantomJS, JSDom, Cheerio"
+  - text: "Git, SVN"
+  - text: "Java, Spring, Guice"
+  - text: "Python, Ruby on Rails"
+  - text: "Bash, sed, grep, fifo, zsh, tmux, vim, xorg, openbox"
+  - text: "Jenkins, Sonar, ESLint, Travis"
+  - text: "Jest, Mocha, Chi, Jasmine, Cucumber"
+  - text: "Metasploit, John the Reaper, XSS"
+  - text: "Firebase, Parse"
+  - text: "Heroku, Openshift, CloudControl, AWS"
+  - text: "Docker, Puppet, Apache, Tomcat"
+  - text: "Yii, Zend, Symphony, Codeigniter, CakePHP"
+  - text: "ElectronJS, Cordova, Ionic, Sencha Touch"
+  - text: "Piano, Guitar, Drums"
+  - text: "Badminton, Chess"
+  - text: "Machine learning, Data mining, Information retrieval, Algorithms"
 
 ########
 # Blog #
@@ -209,6 +209,8 @@ social:
     url: "https://github.com/udnisap"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/udnisap"
+  - title: "skype"
+    url: "skype://pasindur"
 #  - title: "bitcoin"
 #    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
