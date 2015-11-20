@@ -13,11 +13,11 @@ In the \_config.yml, find and set the variables of the Head section:
 # HTML Head #
 #############
 
-author: "John Smith"
+author: "Pasindu Perera"
 lang: "en"
-title: "{ John Smith }"
+title: "{ Pasindu Perera }"
 favicon: "/img/favicon.ico"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+description: "Blog and website of Pasindu Perera, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, Jekyll, theme"
 </code></pre>
 

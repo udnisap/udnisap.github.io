@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Modifying the social buttons
 category: tech
-tags: [ 'tutorial' ]
+tags: [ 'tutorial', 'test' ]
 ---
 
 Social buttons (rendered in the footer) are great for having a small hub with all your social footprint.

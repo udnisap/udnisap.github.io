@@ -1,14 +1,13 @@
 
 # Site settings
 
-url: "https://panossakkos.github.io"
+url: "https://udnisap.github.io"
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (https://yourusername.github.io/repository-name)
 # and NOT your user repository (https://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 
-baseurl: /personal-jekyll-theme
 
 # Google tracking id to track your visitors
 
@@ -18,7 +17,7 @@ google-tracking-id: "UA-35880426-4"
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: True
+#force-https: True
 
 syntax-highlight: True
 
@@ -45,12 +44,12 @@ icon-192p: "/img/web-app/icon-192p.png"
 # HTML Head #
 #############
 
-author: "John Smith"
+author: "Pasindu Perera"
 lang: "en"
-title: "{ John Smith }"
+title: "{ Pasindu Perera }"
 favicon: "/img/favicon.ico"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "Blog and website of Pasindu Perera, blogging mainly for tech. Opinions expressed are mine."
+keywords: "Pasindu Perera, Blog, Findings, Captures, Tech"
 
 ################
 # Intro layout #
@@ -58,7 +57,7 @@ keywords: "smith, jones, personal, jekyll, theme"
 
 black-favicon: "/img/black-lab-glass.ico"
 background-img: "../img/intro-bg.jpg"
-me-img: "/img/jetpacktocat.png"
+me-img: "/img/pasinduperera.jpg"
 
 ##############################
 # Dynamic Text on the header #
@@ -72,8 +71,28 @@ type-speed:	10		# Default 10
 start-delay: 200	# Default 200
 delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Music"
+  - text: "Mathematics"
+  - text: "React React-native"
+  - text: "Grunt Gulp Bower npm ES6 ES7 Babel"
+  - text: "Angular Ember Elm Sencha ExtJS"
+  - text: "NodeJS Express Sails Meteor"
+  - text: "MongoDB CouchDB Mysql Elastic Search"
+  - text: "Selenium Webdriver Zombie PhantomJS JSDom Cheerio"
+  - text: "Git SVN"
+  - text: "Java Spring Guice"
+  - text: "Python Ruby on Rails"
+  - text: "Bash sed grep fifo zsh tmux vim xorg openbox"
+  - text: "Jenkins Sonar ESLint Travis"
+  - text: "Jest Mocha Chi Jasmine Cucumber"
+  - text: "Metasploit John the Reaper XSS"
+  - text: "Firebase Parse"
+  - text: "Heroku Openshift CloudControl AWS"
+  - text: "Docker Puppet Apache Tomcat"
+  - text: "Yii Zend Symphony Codeigniter CakePHP"
+  - text: "ElectronJS Cordova"
+  - text: "Piano Guitar Music"
+  - text: "Badminton Chess"
 
 ########
 # Blog #
@@ -90,19 +109,83 @@ google-plus-share: True
 linkedin-share: True
 pinterest-share: True
 vkontakte-share: True
-disqus-shortname: "panossakkos"
+disqus-shortname: "udnisap"
 
 ###############
 # Life Events #
 ###############
 
 events:
-  - image: "/img/career/spidertocat.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
-  - image: "/img/career/baracktocat.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+  - image: "/img/career/TadHack.png"
+    date: "August 2014"
+    description: "*TADHack Global Hackathon*
+
+
+    Winner
+    "
+  - image: "/img/career/Cake.png"
+    date: "March 2014 - Today"
+    description: "*Cake.net*
+
+
+    Software Engineer"
+
+  - image: "/img/career/graduated.png"
+    date: "August 2009 - March 2014"
+    description: "*Compute Science and Engineering, University of Moratuwa*
+
+
+    First Class Honours"
+
+  - image: "/img/career/Ideamart.jpg"
+    date: "October 2013"
+    description: "*Dialog Ideamart Hackathon*
+
+
+    Winner
+    "
+  - image: "/img/career/99x.png"
+    date: "January 2013 - March 2013"
+    description: "*99X Technologies*
+
+
+    Software Engineer"
+
+  - image: "/img/career/Thinkcube.png"
+    date: "May 2012 - September 2012"
+    description: "*Thinkube Systems*
+
+
+    Trainee Software Engineer"
+
+  - image: "/img/career/IEEExtream.png"
+    date: "2010, 2011, 2012"
+    description: "*IEEExtream Global Programming competition*
+
+
+    Top 50 in the World
+    "
+
+  - image: "/img/career/IMO2008.png"
+    date: "August 2008"
+    description: "*International Mathematical Olympiad*
+
+
+    Madrid, Spain
+    "
+  - image: "/img/career/IMO2007.png"
+    date: "August 2007"
+    description: "*International Mathematical Olympiad*
+
+
+    Hanoi, Vietnam
+    "
+  - image: "/img/career/WRO.jpg"
+    date: "March 2004"
+    description: "*World Robotic Olympiad*
+
+
+    Singapore"
 
 # First image of the Career timeline
 career-img: "/img/career/default.png"
@@ -111,7 +194,7 @@ career-img: "/img/career/default.png"
 # Contact layout #
 ##################
 
-email: "your@email.here"
+email: "perera.pasindu@gmail.com"
 
 ##################
 # Social Buttons #
@@ -119,13 +202,15 @@ email: "your@email.here"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/rumalp"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/udnisap"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/udnisap"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/udnisap"
+#  - title: "bitcoin"
+#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 
