@@ -78,7 +78,7 @@ lines:			# You can add HTML Tags in the Text
   - text: "NodeJS, Express, Sails, Meteor"
   - text: "MongoDB, CouchDB, Mysql, Elastic Search"
   - text: "Selenium, Webdriver.io, Zombie, PhantomJS, JSDom, Cheerio"
-  - text: "Git, SVN"
+  - text: "Git"
   - text: "Java, Spring, Guice"
   - text: "Python, Ruby on Rails"
   - text: "Bash, sed, grep, fifo, zsh, tmux, vim, xorg, openbox"
