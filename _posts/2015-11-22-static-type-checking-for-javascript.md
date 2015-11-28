@@ -2,7 +2,6 @@
 layout: post
 section-type: post
 title: Static Type checking for Javascript
-category: Category
 tags: 
   - js
   - productivity
