@@ -2,7 +2,11 @@
 layout: post
 section-type: post
 title: Node REPL Experiments
-tags: [ 'js', 'debugging', 'learning', 'hack' ]
+tags: 
+ - javascript
+ - debugging
+ - learning
+ - hacks
 ---
 
 I was hacking around the repl in node today. Basically REPL is Read Evaluate Print Loop. 
