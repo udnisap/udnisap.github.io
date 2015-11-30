@@ -6,7 +6,7 @@ date: '2014-12-24T11:47:47+05:30'
 tags:
 - angularjs
 - coradova
-- js
+- javascript
 - ionic
 tumblr_url: http://my-discoveries.tumblr.com/post/106065376750/ngcordova-cordova-plugins-with-angularjs-magic
 ---

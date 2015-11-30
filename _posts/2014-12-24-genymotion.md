@@ -5,7 +5,7 @@ title: Genymotion
 date: '2014-12-24T12:18:00+05:30'
 tags:
 - ionic
-- js
+- javascript
 - tool
 - android
 tumblr_url: http://my-discoveries.tumblr.com/post/106067660050/genymotion

@@ -5,7 +5,7 @@ title: Ionic Creator
 date: '2014-12-24T11:53:59+05:30'
 tags:
 - ionic
-- js
+- javascript
 - online
 tumblr_url: http://my-discoveries.tumblr.com/post/106065821440/ionic-creator
 ---

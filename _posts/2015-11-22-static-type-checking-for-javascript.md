@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Static Type checking for Javascript
 tags: 
-  - js
+  - javascript
   - productivity
   - tool
 ---
