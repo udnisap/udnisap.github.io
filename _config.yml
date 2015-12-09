@@ -116,6 +116,12 @@ disqus-shortname: "udnisap"
 ###############
 
 events:
+  - image: "/img/career/Cake.png"
+    date: "December 2015 - Today"
+    description: "*Cake.net*
+
+
+    Associate Tech Lead"
   - image: "/img/career/TadHack.png"
     date: "August 2014"
     description: "*TADHack Global Hackathon*
