@@ -8,4 +8,4 @@ tags:
 - hack
 tumblr_url: http://my-discoveries.tumblr.com/post/83105229709/how-to-disable-chrome-developer-tools
 ---
-How to disable chrome developer toolshttp://kspace.in/blog/2013/02/22/disable-javascript-execution-from-console/
+How to disable chrome developer tools http://kspace.in/blog/2013/02/22/disable-javascript-execution-from-console/
