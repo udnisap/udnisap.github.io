@@ -73,7 +73,7 @@ delete-delay: 5000	# Default 5000
 lines:			# You can add HTML Tags in the Text
   - text: "Mathematics"
   - text: "React, React-native"
-  - text: "Grunt, Gulp, Bower, npm, ES6, ES7, Babel"
+  - text: "Webpack, Grunt, Gulp, Bower, npm, ES6, ES7, Babel"
   - text: "Angular, Ember, Elm, Sencha, ExtJS, Web Assembly, Rx"
   - text: "NodeJS, Express, Sails, Meteor"
   - text: "MongoDB, CouchDB, Mysql, Elastic Search"
