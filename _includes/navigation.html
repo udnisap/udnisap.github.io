@@ -24,6 +24,9 @@
         {% if page.section-type == "index" %}
 
           <!-- Scroll to section for each page in index -->
+          <li>
+            <a class="page-scroll" href="https://medium.com/@udnisap">Blog</a>
+          </li>
           {% for p in site.pages_list %}
             <li>
               <a class="page-scroll" href="#{{ p[1] }}"> {{p[0]}} </a>

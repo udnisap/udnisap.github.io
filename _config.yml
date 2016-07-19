@@ -25,7 +25,6 @@ syntax-highlight: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
@@ -98,18 +97,18 @@ lines:			# You can add HTML Tags in the Text
 # Blog #
 ########
 
-post-preview-words: 96
-
-paginate: 5
-
-fb-share: True
-twitter-share: True
-reddit-share: True
-google-plus-share: True
-linkedin-share: True
-pinterest-share: True
-vkontakte-share: True
-disqus-shortname: "udnisap"
+# post-preview-words: 96
+#
+# paginate: 5
+#
+# fb-share: True
+# twitter-share: True
+# reddit-share: True
+# google-plus-share: True
+# linkedin-share: True
+# pinterest-share: True
+# vkontakte-share: True
+# disqus-shortname: "udnisap"
 
 ###############
 # Life Events #
