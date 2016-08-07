@@ -17,6 +17,7 @@ syntax-highlight: True
 pages_list:
   About: 'about'
   Timeline: 'timeline'
+  Projects: 'projects'
   Contact: 'contact'
 
 web-app-mode: True
@@ -182,6 +183,12 @@ events:
 
 
     Singapore"
+
+projects:
+  - image: "/img/career/WRO.jpg"
+    heading: 'test'
+    date: "March 2004"
+    description: "*World Robotic Olympiad*"
 
 # First image of the Career timeline
 career-img: "/img/career/default.png"

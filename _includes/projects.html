@@ -1,0 +1,58 @@
+
+<!-- Projects Start -->
+
+<section id="{{ page.section-type }}" class="container content-section text-center">
+  <div class="row">
+    <div class="col-lg-10 col-lg-offset-1">
+
+      {{ page.content | markdownify }}
+      
+      {% for project in site.projects %}
+        <div class="row">
+          <div class="col-sm-6 col-md-4">
+            <div class="thumbnail">
+              <img src="{{project.image}}" alt="{{project.description}}">
+              <div class="caption">
+                <h3>{{project.heading}}</h3>
+                <p>{{project.description}}</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+      <!-- <ul class="timeline"> -->
+
+        <!-- {% for event in site.events %} -->
+        <!--   {% assign loopindex = forloop.index | modulo: 2 %} -->
+        <!--   {% capture class %} -->
+        <!--   {% if loopindex == 0 %} -->
+        <!--     timeline&#45;inverted -->
+        <!--   {% endif %} -->
+        <!--   {% endcapture %} -->
+        <!--  -->
+        <!--   <li class="{{ class }}"> -->
+        <!--     <div class="timeline&#45;image"> -->
+        <!--       <img class="img&#45;circle img&#45;responsive" src="{{site.baseurl}}{{ event.image }}" alt=""> -->
+        <!--     </div> -->
+        <!--     <div class="timeline&#45;panel"> -->
+        <!--       <div class="timeline&#45;heading"> -->
+        <!--         <h4>{{ event.date }}</h4> -->
+        <!--       </div> -->
+        <!--       <div class="timeline&#45;body"> -->
+        <!--         {{ event.description | markdownify }} -->
+        <!--       </div> -->
+        <!--     </div> -->
+        <!--   </li> -->
+        <!-- {% endfor %} -->
+        <!--  -->
+        <!-- <li class="timeline&#45;inverted"> -->
+        <!--   <div class="timeline&#45;image"> -->
+        <!--     <img class="img&#45;circle img&#45;responsive" src="{{site.baseurl}}{{ site.career&#45;img }}" alt=""> -->
+        <!--   </div> -->
+        <!-- </li> -->
+      <!-- </ul> -->
+    </div>
+  </div>
+</section>
+
+<!-- Projects End -->
