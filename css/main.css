@@ -351,3 +351,28 @@ MEDIA
     width: 90%;
   }
 }
+
+.navbar .navbar-nav {
+  display: inline-block;
+  float: none;
+  vertical-align: top;
+}
+
+.navbar .navbar-collapse {
+  text-align: center;
+}
+
+.box.winner {
+  background-image: url(/img/winner.png);
+  background-position: 0 5px;
+  background-size: 45px;
+  background-repeat: no-repeat;
+}
+
+.box h3 {
+  margin-left: 20px;
+}
+
+.well {
+  text-align: center;
+}
