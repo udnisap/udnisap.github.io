@@ -376,3 +376,7 @@ MEDIA
 .well {
   text-align: center;
 }
+
+.navbar-nav > li > a {
+  font-size: 24px;
+}
